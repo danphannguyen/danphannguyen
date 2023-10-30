@@ -89,7 +89,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-![O2switch](https://img.shields.io/badge/O2switch-3670A0?style=for-the-badge&logoColor=ff611D) 
+![O2switch](https://img.shields.io/badge/O2switch-ff611d?style=for-the-badge) 
 
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
