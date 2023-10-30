@@ -1,12 +1,9 @@
-<h1 style="color:#FFFFFF">Just a French </h1>
-<span style="color:blue">some *blue* text</span>.
-
 <div align="center">
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 
 </div>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Developper;Designer;Photographer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Developper;Designer;Photographer" alt="Typing SVG" />
 </p>
 
 <div align="center">
