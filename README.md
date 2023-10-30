@@ -4,7 +4,7 @@
 
 <div align="center">
   <img align="center" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danphannguyen&theme=aura"  />
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danphannguyen&langs_count=8&theme=aura" alt=danphannguyen />
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danphannguyen&langs_count=8&theme=aura&hide_border=true" alt=danphannguyen />
 </div>
 </br>
 
