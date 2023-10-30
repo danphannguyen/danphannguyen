@@ -13,7 +13,7 @@
 
 ###
 <details>
-  <summary><h2 align="left"> Contact Me: </h2></summary>
+  <summary><h2 align="left"> 📨 Contact Me: </h2></summary>
 
 <img align="right" height="150" src="https://i.imgflip.com/84b8ys.gif"  />
 
