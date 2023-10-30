@@ -1,4 +1,4 @@
-<h1 style="color:white">Just a French </h1>
+<h1 style="color:#FFFFFF">Just a French </h1>
 
 <div align="center">
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
