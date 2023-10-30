@@ -77,11 +77,13 @@
 
 </table>
 </details>
-</br>
+
 
 ###
+<details>
+  <summary><h2 align="left">Others Stack:</h2></summary>
 
-<h2 align="left">Others Stack:</h2>
+
 
 <table border="0">
  <tr>
@@ -111,7 +113,7 @@
  </tr>
 
 </table>
-
+</details>
 ###
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danphannguyen&label=Profile%20views&color=0e75b6&style=flat" alt="danphannguyen" /> </p>
