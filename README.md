@@ -11,33 +11,6 @@
 </div>
 </br>
 
-###
-<details>
-  <summary><h2 align="left"> 📨 Contact Me: </h2></summary>
-
-<img align="right" height="150" src="https://i.imgflip.com/84b8ys.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/dan.pn_" target="_blank">
-    <img src="https://img.shields.io/badge/intsagram:  dan.pn_-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
-  </a>
-  </br>
-  <a href="mailto:danphannguyen.contact@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:  danphannguyen.contact@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-  </a>
-  </br>
-  <a href="https://linkedin.com/in/dan-phan-nguyen-7a55a3251" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin:  danphannguyen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-
-  <a href="https://www.buymeacoffee.com/danpn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35"  alt="danpn" /></a>
-</div>
-</details>
-
-###
-
 <details>
   <summary><h2 align="left"> 💻 Tech Stack: </h2></summary>
 
@@ -122,6 +95,30 @@
  </tr>
 
 </table>
+</details>
+
+<details>
+  <summary><h2 align="left"> 📨 Contact Me: </h2></summary>
+
+<img align="right" height="150" src="https://i.imgflip.com/84b8ys.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/dan.pn_" target="_blank">
+    <img src="https://img.shields.io/badge/intsagram:  dan.pn_-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+  </br>
+  <a href="mailto:danphannguyen.contact@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:  danphannguyen.contact@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+  </br>
+  <a href="https://linkedin.com/in/dan-phan-nguyen-7a55a3251" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  danphannguyen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+
+  <a href="https://www.buymeacoffee.com/danpn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35"  alt="danpn" /></a>
+</div>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
