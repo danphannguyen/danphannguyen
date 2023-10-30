@@ -29,8 +29,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
+<details>
+  <summary><h2 align="left"> Tech Stack: </h2></summary>
 
-<h2 align="left"> Tech Stack: </h2>
 
 <table border="0">
  <tr>
@@ -75,7 +76,7 @@
  </tr>
 
 </table>
-
+</details>
 </br>
 
 ###
