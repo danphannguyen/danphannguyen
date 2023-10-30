@@ -18,13 +18,11 @@
 
 <div align="left">
   <a href="https://www.instagram.com/dan.pn_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  
-  <a href="mailto:danphannguyen.contact@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 
   <a href="mailto:danphannguyen.contact@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail:  danphannguyen.contact@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
-  
+  </br>
   <a href="https://linkedin.com/in/dan-phan-nguyen-7a55a3251" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:  danphannguyen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
