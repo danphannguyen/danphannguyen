@@ -2,7 +2,7 @@
 <p align="center">
     <div>
         <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
-        <h1>Just a French</h1>
+        <span>Just a French</span>
     </div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Developper;Designer;Photographer" alt="Typing SVG" />
 </p>
