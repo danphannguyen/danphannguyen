@@ -12,6 +12,8 @@
 </br>
 
 ###
+<details>
+  <summary><h2 align="left"> Contact Me: </h2></summary>
 
 <img align="right" height="150" src="https://i.imgflip.com/84b8ys.gif"  />
 
@@ -32,8 +34,7 @@
 
   <a href="https://www.buymeacoffee.com/danpn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35"  alt="danpn" /></a>
 </div>
-</br>
-</br>
+</details>
 
 ###
 
