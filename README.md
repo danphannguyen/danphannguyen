@@ -1,9 +1,8 @@
-
+<div align="center">
+    <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+    <span style="font-size:20em">Just a French</span>
+</div>
 <p align="center">
-    <div align="center">
-        <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
-        <span>Just a French</span>
-    </div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Developper;Designer;Photographer" alt="Typing SVG" />
 </p>
 
