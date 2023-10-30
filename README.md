@@ -13,7 +13,7 @@
 </br>
 
 <details>
-  <summary> <h2 align="left"> 💻 Tech Stack: </h2> </summary>
+  <summary> <h2 align="left"> 💻 Tech Stacks : </h2> </summary>
 
 
 <table border="0">
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><h2 align="left"> 🧭 Others Stack:</h2></summary>
+  <summary><h2 align="left"> 🧭 Others Stacks :</h2></summary>
 
 
 
