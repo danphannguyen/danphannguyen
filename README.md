@@ -19,7 +19,7 @@
 <div align="left">
   <a href="https://www.instagram.com/dan.pn_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://www.instagram.com/dan.pn_" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:  danphannguyen.contact@gmail.com-%E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/gmail:  danphannguyen.contact@gmail.com-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
   </br>
   <a href="mailto:danphannguyen.contact@gmail.com" target="_blank">
