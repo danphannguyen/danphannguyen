@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/dan.pn_" target="_blank">
-    <img src="https://img.shields.io/badge/  dan.pn_-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/intsagram:  dan.pn_-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
   </br>
   <a href="mailto:danphannguyen.contact@gmail.com" target="_blank">
