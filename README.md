@@ -26,9 +26,6 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-###
 <details>
   <summary><h2 align="left"> Tech Stack: </h2></summary>
 
@@ -115,6 +112,7 @@
 </table>
 </details>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danphannguyen&label=Profile%20views&color=0e75b6&style=flat" alt="danphannguyen" /> </p>
 
 
