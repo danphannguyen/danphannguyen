@@ -11,7 +11,7 @@
 </div>
 </br>
 
-<div>
+
 <details>
   <summary><h2 align="left"> 💻 Tech Stack: </h2></summary>
 
@@ -121,7 +121,7 @@
   <a href="https://www.buymeacoffee.com/danpn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35"  alt="danpn" /></a>
 </div>
 </details>
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danphannguyen&label=Profile%20views&color=0e75b6&style=flat" alt="danphannguyen" /> </p>
 
