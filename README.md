@@ -1,4 +1,5 @@
 <h1 style="color:#FFFFFF">Just a French </h1>
+<span style="color:blue">some *blue* text</span>.
 
 <div align="center">
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
