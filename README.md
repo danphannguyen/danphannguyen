@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danphannguyen&theme=aura" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danphannguyen&theme=aura" height="150em" />
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danphannguyen&langs_count=8&theme=aura" alt=danphannguyen />
 </div>
 
