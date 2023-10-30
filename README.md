@@ -1,4 +1,9 @@
-
+  <style>
+      p {
+        color: red;
+      }
+  </style>
+    
 ## <p style="color, white"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Just a French Developper...**</p>
   
 <p align="center">
