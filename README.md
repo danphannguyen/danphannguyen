@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danphannguyen&theme=aura"  />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danphannguyen&langs_count=8&theme=aura" alt=danphannguyen />
+  <img align="center" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danphannguyen&theme=aura"  />
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danphannguyen&langs_count=8&theme=aura" alt=danphannguyen />
 </div>
 </br>
 
@@ -19,12 +19,14 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <p><a href="https://www.buymeacoffee.com/danpn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="210" alt="danpn" /></a></p>
 </div>
-
-<p><a href="https://www.buymeacoffee.com/danpn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danpn" /></a></p><br><br>
-
 </br>
 </br>
+
+###
+
+
 <h2 align="left"> Tech Stack: </h2>
 
 <table border="0">
