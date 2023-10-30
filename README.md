@@ -1,11 +1,10 @@
 <div align="center">
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 </div>
-</br>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Developper;Designer;Photographer" alt="Typing SVG" />
 </p>
-
+</br>
 <div align="center">
   <img align="center" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danphannguyen&theme=aura"  />
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danphannguyen&langs_count=8&theme=aura&hide_border=true" alt=danphannguyen />
