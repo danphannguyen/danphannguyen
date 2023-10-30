@@ -12,7 +12,7 @@
 </br>
 
 <details>
-  <summary><h2 align="left"> 💻 Tech Stack: </h2></summary>
+  <summary>💻 Tech Stack: </summary>
 
 
 <table border="0">
