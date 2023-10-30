@@ -1,4 +1,4 @@
-<h2 align="left"> 💻 Just a French Developper...</h2>
+<h2 align="left">  Just a French Developper...</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <details>
-  <summary><h2 align="left"> Tech Stack: </h2></summary>
+  <summary><h2 align="left"> 💻 Tech Stack: </h2></summary>
 
 
 <table border="0">
